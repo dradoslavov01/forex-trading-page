@@ -1,0 +1,34 @@
+.red {
+    background-color: red;
+    color: #FFFF;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.green {
+    background-color: green;
+    color: #FFFF;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+li {
+    font-size: 20px;
+    font-weight: 600;
+
+}
+
+ul {
+    list-style-type: none;
+
+}
+
+.currency {
+    display: flex;
+    align-items: center;
+    width: 400px;
+    justify-content: space-between;
+    border: 1px solid black;
+   padding: 0 10px;
+    margin: 0 auto;
+}
